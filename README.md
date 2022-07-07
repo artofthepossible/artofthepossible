@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...Azure
 - 💬 Ask me about ...Google Cloud, AWS, Banking, SRE
-- 📫 How to reach me: ...abishaie@gmail.com
+- 📫 How to reach me: ...abishaiep@gmail.com
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...
 
